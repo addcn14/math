@@ -10,12 +10,6 @@ main = function(){
     /*while(){
 
     }*/
-    x=3
-    while(x<5){
-      console.log("didn't work")
-      x++
-    }
-    console.log(x)
   })
 }
 
